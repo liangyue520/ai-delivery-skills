@@ -1,0 +1,3 @@
+interface:
+  display_name: "多智能体协作开发与交付SOP"
+  short_description: "主聊天统筹多智能体开发与跨Work委派，完成集成、真实验证、部署和恢复"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI辅助开发工作流SOP"
+  short_description: "主聊天统一负责，按需委派开发代理或相关Work，完成开发、集成和必要验证"
+  default_prompt: "使用 $ai-development-workflow，遵守delivery-first，由主聊天统筹，按需使用开发代理或委派相关Work，复用成果并完成本轮开发、集成及必要验证。"
