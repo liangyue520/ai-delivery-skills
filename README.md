@@ -2,9 +2,9 @@
 
 用三个互相配合的技能，把 AI 协作的重点放在可操作成果、必要验证和清晰交付上。小任务直接处理；复杂开发按需要组织代理，由主聊天负责集成和结果。
 
-**v0.1.0 · 首个私有维护版本** · 中文 · 项目整理、改编与维护：**梁养浩**
+**v0.1.0 · 首个维护版本** · 中文 · 项目整理、改编与维护：**梁养浩**
 
-GitHub 私有仓库：[liangyue520/ai-delivery-skills](https://github.com/liangyue520/ai-delivery-skills)。仅获授权的账号可以访问；私有上传不代表已选定开源许可。
+GitHub 公开仓库：[liangyue520/ai-delivery-skills](https://github.com/liangyue520/ai-delivery-skills)。任何人都可以查看仓库；公开可见不代表已选定整体开源许可。
 
 ## 包含的技能
 
@@ -18,7 +18,7 @@ GitHub 私有仓库：[liangyue520/ai-delivery-skills](https://github.com/liangy
 
 ## 快速开始
 
-使用已获仓库访问权限的 GitHub 账号克隆，或下载并解压 ZIP：
+直接克隆仓库，或下载并解压 ZIP：
 
 ```bash
 git clone https://github.com/liangyue520/ai-delivery-skills.git
